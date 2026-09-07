@@ -1,9 +1,13 @@
 # Practice 1: Odd or Even Number Identifier
 
-## How to use:
-Enter a whole number
-Code will determine if whole number is odd or even
+## Description
+This program determines whether a whole number is even or odd.
 
-## Made by:
-Daniella Salcedo
-Gabb Mallorca
+## How to Run:
+1. Open 'practice 1.py'
+2. Run the program
+3. Enter a whole number
+
+## Members:
+- Daniella Salcedo: README making
+- Gabb Mallorca: coding
